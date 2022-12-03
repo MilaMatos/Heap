@@ -10,7 +10,7 @@ print("Heap formado pelo vetor V: ", heap, "\n")
 inserir(heap, 10)
 print("Chave 10 inserida: ", heap)
 inserir(heap, 99)
-print("Chave 70 inserida: ", heap)
+print("Chave 99 inserida: ", heap)
 inserir(heap, 5)
 print("Chave 5 inserida: ", heap, "\n")
 
